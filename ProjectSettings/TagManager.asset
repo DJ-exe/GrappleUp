@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - building
+  - FillerCar
+  - MYCar
+  - EndGameTrigger
+  - JumpPad
+  - TriggerExit
+  - JointLag
+  - secondExit
+  - PlayerHips
   layers:
   - Default
   - TransparentFX
